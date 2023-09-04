@@ -2,7 +2,11 @@
 I developed the Tic-Tac-Toe Game using python framework.
 <br>
 
-This is a classic Tic-Tac-Toe game implemented in Python, providing a fun two-player gaming experience.
+## About
+- This is a classic Tic-Tac-Toe game implemented in Python, providing a fun two-player gaming experience.
+- Designed and implemented a user-friendly interface for the game
+- Utilized a 3×3 square grid to create a visually appealing and interactive playing field
+- Enhanced the gaming experience by assigning 'X' and 'O' as markers for each player
 
 ## How to Play
 
