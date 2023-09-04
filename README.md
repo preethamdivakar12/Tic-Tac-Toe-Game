@@ -24,8 +24,5 @@ This is a classic Tic-Tac-Toe game implemented in Python, providing a fun two-pl
 
 - Python 3.x
 
-## Usage
-
-1. Clone the repository:
 
 
